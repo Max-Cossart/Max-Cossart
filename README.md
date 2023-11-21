@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Max
+
+✨ I enjoy building fullstack web applications
+
+⚡ I'm currently working on a fullstack Employee tracker app
 
 <!--
 **Max-Cossart/Max-Cossart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
