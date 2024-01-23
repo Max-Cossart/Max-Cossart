@@ -1,8 +1,7 @@
 # Hi, I'm Max
 
 ✨ I enjoy building fullstack web applications<br>
-⚡ I'm currently working on a fullstack Employee tracker app<br>
-🎓 Next thing to learn - Improve Next Skills
+⚡ I'm currently working on a Backend postcode Api<br>
 
 Find out more [Here!](https://max-cossart-portfolio.vercel.app/)
 
