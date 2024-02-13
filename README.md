@@ -1,9 +1,11 @@
 # Hi, I'm Max
 
 ✨ I enjoy building fullstack web applications<br>
-⚡ I'm currently working on a Backend postcode Api<br>
+⚡ I'm currently working on my E-portfolio<br>
 
-Find out more [Here!](https://max-cossart-portfolio.vercel.app/)
+You can see my original E-portfolio [Here!](https://max-cossart-portfolio.vercel.app/)
+
+I am currently working on a new one!
 
 ## Tech Stack:
 
