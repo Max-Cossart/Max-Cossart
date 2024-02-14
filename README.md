@@ -3,7 +3,7 @@
 ✨ I enjoy building fullstack web applications<br>
 ⚡ I'm currently working on my E-portfolio<br>
 
-You can see my original E-portfolio [Here!](https://max-cossart-portfolio.vercel.app/)
+You can see my original E-portfolio [Here!](https://max-cossart-portfolio.vercel.app/)<br>
 However, I am currently working on a new one!
 
 ## Tech Stack:
