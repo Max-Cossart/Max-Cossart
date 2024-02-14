@@ -4,8 +4,7 @@
 ⚡ I'm currently working on my E-portfolio<br>
 
 You can see my original E-portfolio [Here!](https://max-cossart-portfolio.vercel.app/)
-
-I am currently working on a new one!
+However, I am currently working on a new one!
 
 ## Tech Stack:
 
